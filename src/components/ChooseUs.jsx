@@ -1,5 +1,5 @@
 import React from "react";
-import aboutImg from "../images/about-1.jpg";
+import aboutImg from "../Images/about_1.jpg";
 import updateCount from "./script";
 
 const hostDetails = [

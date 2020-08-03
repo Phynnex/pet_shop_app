@@ -1,6 +1,6 @@
 import React from "react";
-import footerImg1 from "../images/image_1.jpg"
-import footerImg2 from "../images/image_2.jpg";
+import footerImg1 from "../Images/image_1.jpg"
+import footerImg2 from "../Images/image_2.jpg";
 
 const Footer = () => {
   return (

@@ -1,7 +1,7 @@
 import React from "react";
-import person_1 from "../images/person_1.jpg";
-import person_2 from "../images/person_2.jpg";
-import person_3 from "../images/person_3.jpg";
+import person_1 from "../Images/person_1.jpg";
+import person_2 from "../Images/person_2.jpg";
+import person_3 from "../Images/person_3.jpg";
 
 const Testimonial = () => {
   return (

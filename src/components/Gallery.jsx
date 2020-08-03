@@ -1,10 +1,10 @@
 import React from "react";
-import gallery1 from "../images/gallery-1.jpg";
-import gallery2 from "../images/gallery-2.jpg";
-import gallery3 from "../images/gallery-3.jpg";
-import gallery4 from "../images/gallery-4.jpg";
-import gallery5 from "../images/gallery-5.jpg";
-import gallery6 from "../images/gallery-6.jpg";
+import gallery1 from "../Images/gallery-1.jpg";
+import gallery2 from "../Images/gallery-2.jpg";
+import gallery3 from "../Images/gallery-3.jpg";
+import gallery4 from "../Images/gallery-4.jpg";
+import gallery5 from "../Images/gallery-5.jpg";
+import gallery6 from "../Images/gallery-6.jpg";
 
 const Gallery = () => {
   return (

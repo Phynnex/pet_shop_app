@@ -1,7 +1,7 @@
 import React from "react";
-import blog1 from "../images/image_1.jpg";
-import blog2 from "../images/image_2.jpg";
-import blog3 from "../images/image_3.jpg";
+import blog1 from "../Images/image_1.jpg";
+import blog2 from "../Images/image_2.jpg";
+import blog3 from "../Images/image_3.jpg";
 
 const Nav = () => {
   return (
