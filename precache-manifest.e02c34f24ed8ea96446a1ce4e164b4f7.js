@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d002942998c3d78c08b61a03bfcacfe",
+    "revision": "bf7ecced920410dd4759c6f0b6e4cbe4",
     "url": "/pet_shop_app/index.html"
   },
   {
-    "revision": "3da98b3c60a0213f662f",
+    "revision": "eab8e6765ae8edb3dc53",
     "url": "/pet_shop_app/static/css/2.f5a9bd35.chunk.css"
   },
   {
-    "revision": "d4a632c6ff605ae6f6b0",
+    "revision": "c7bcacaf0596ffaf475f",
     "url": "/pet_shop_app/static/css/main.e9917965.chunk.css"
   },
   {
-    "revision": "3da98b3c60a0213f662f",
-    "url": "/pet_shop_app/static/js/2.a9904a32.chunk.js"
+    "revision": "eab8e6765ae8edb3dc53",
+    "url": "/pet_shop_app/static/js/2.0ded0dd8.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/pet_shop_app/static/js/2.a9904a32.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/pet_shop_app/static/js/2.0ded0dd8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4a632c6ff605ae6f6b0",
-    "url": "/pet_shop_app/static/js/main.c4efefaf.chunk.js"
+    "revision": "c7bcacaf0596ffaf475f",
+    "url": "/pet_shop_app/static/js/main.61394053.chunk.js"
   },
   {
     "revision": "a792ab331d6176d46695",

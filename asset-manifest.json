@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/pet_shop_app/static/css/main.e9917965.chunk.css",
-    "main.js": "/pet_shop_app/static/js/main.c4efefaf.chunk.js",
-    "main.js.map": "/pet_shop_app/static/js/main.c4efefaf.chunk.js.map",
+    "main.js": "/pet_shop_app/static/js/main.61394053.chunk.js",
+    "main.js.map": "/pet_shop_app/static/js/main.61394053.chunk.js.map",
     "runtime-main.js": "/pet_shop_app/static/js/runtime-main.912a7994.js",
     "runtime-main.js.map": "/pet_shop_app/static/js/runtime-main.912a7994.js.map",
     "static/css/2.f5a9bd35.chunk.css": "/pet_shop_app/static/css/2.f5a9bd35.chunk.css",
-    "static/js/2.a9904a32.chunk.js": "/pet_shop_app/static/js/2.a9904a32.chunk.js",
-    "static/js/2.a9904a32.chunk.js.map": "/pet_shop_app/static/js/2.a9904a32.chunk.js.map",
+    "static/js/2.0ded0dd8.chunk.js": "/pet_shop_app/static/js/2.0ded0dd8.chunk.js",
+    "static/js/2.0ded0dd8.chunk.js.map": "/pet_shop_app/static/js/2.0ded0dd8.chunk.js.map",
     "index.html": "/pet_shop_app/index.html",
-    "precache-manifest.59dbee751e4b8ceff29c15026068ebe7.js": "/pet_shop_app/precache-manifest.59dbee751e4b8ceff29c15026068ebe7.js",
+    "precache-manifest.e02c34f24ed8ea96446a1ce4e164b4f7.js": "/pet_shop_app/precache-manifest.e02c34f24ed8ea96446a1ce4e164b4f7.js",
     "service-worker.js": "/pet_shop_app/service-worker.js",
     "static/css/2.f5a9bd35.chunk.css.map": "/pet_shop_app/static/css/2.f5a9bd35.chunk.css.map",
     "static/css/main.e9917965.chunk.css.map": "/pet_shop_app/static/css/main.e9917965.chunk.css.map",
-    "static/js/2.a9904a32.chunk.js.LICENSE.txt": "/pet_shop_app/static/js/2.a9904a32.chunk.js.LICENSE.txt",
+    "static/js/2.0ded0dd8.chunk.js.LICENSE.txt": "/pet_shop_app/static/js/2.0ded0dd8.chunk.js.LICENSE.txt",
     "static/media/about_1.jpg": "/pet_shop_app/static/media/about_1.5958d806.jpg",
     "static/media/styles.css": "/pet_shop_app/static/media/pricing-3.2bed7f66.jpg",
     "static/media/faq-img.jpg": "/pet_shop_app/static/media/faq-img.e509eac7.jpg",
@@ -34,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.912a7994.js",
     "static/css/2.f5a9bd35.chunk.css",
-    "static/js/2.a9904a32.chunk.js",
+    "static/js/2.0ded0dd8.chunk.js",
     "static/css/main.e9917965.chunk.css",
-    "static/js/main.c4efefaf.chunk.js"
+    "static/js/main.61394053.chunk.js"
   ]
 }
