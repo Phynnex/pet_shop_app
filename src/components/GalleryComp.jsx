@@ -6,7 +6,7 @@ import gallery4 from "../Images/gallery-4.jpg";
 import gallery5 from "../Images/gallery-5.jpg";
 import gallery6 from "../Images/gallery-6.jpg";
 
-const Gallery = () => {
+const GalleryComp = () => {
   return (
     <>
       <section>
@@ -26,4 +26,4 @@ const Gallery = () => {
   );
 };
 
-export default Gallery;
+export default GalleryComp;

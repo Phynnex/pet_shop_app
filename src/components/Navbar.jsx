@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from 'react-router-dom';
 
 
-const Nav = () => {
+const Navbar = () => {
   return (
     <nav>
         <section className="container">
@@ -24,8 +24,8 @@ const Nav = () => {
             <nav className="navbar">
                 <ul className="navbar-items">
                 <li><Link to="/">HOME</Link></li>
-                <li><Link to="/About">ABOUT</Link></li>
-                <li><Link to="/venterinarian">VENTERINARIAN</Link></li>
+                <li><Link to="/about">ABOUT</Link></li>
+                <li><Link to="/vetenarian">VETENARIAN</Link></li>
                 <li><Link to="/services">SERVICES</Link></li>
                 <li><Link to="/gallery">GALLERY</Link></li>
                 <li><Link to="/pricing">PRICING</Link></li>
@@ -39,4 +39,4 @@ const Nav = () => {
   );
 };
 
-export default Nav;
+export default Navbar;

@@ -1,6 +1,6 @@
 import React from "react";
 
-const Pricing = () => {
+const Price = () => {
   return (
     <>
       <section className="price-container-full">
@@ -61,4 +61,4 @@ const Pricing = () => {
   );
 };
 
-export default Pricing;
+export default Price;
